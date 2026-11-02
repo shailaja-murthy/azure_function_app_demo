@@ -24,8 +24,8 @@ def hello(req: func.HttpRequest) -> func.HttpResponse:
     # Prepare the response message.
     message = (
         f"Hello {name}!\n"
-        "Dei Ramesh Avolothan unaku.pothum da\n"
-        "muttal nayee\n"
+        "I am happy and i am confident\n"
+        "I love my life and im in peace and calm, i will ge a job and earn more abundance\n"
         "I am learning Azure Functions and GitHub Actions."
     )
 
